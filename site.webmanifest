@@ -1,0 +1,13 @@
+{
+  "name": "ركن القائد للاستشارات الاستثمارية وخدمات الأعمال",
+  "short_name": "ركن القائد",
+  "icons": [
+    {"src": "assets/img/favicon.png", "sizes": "64x64", "type": "image/png"},
+    {"src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ],
+  "theme_color": "#031529",
+  "background_color": "#f8f5ef",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar"
+}
